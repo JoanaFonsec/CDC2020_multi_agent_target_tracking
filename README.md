@@ -1,2 +1,3 @@
-# CDC2020_multi_agent_target_tracking
-MATLab code for the CDC2020 paper with Multi-agent target tracking
+# Multi_agent_target_tracking
+
+MATLab code for the CONTROLO 2020 paper "Cooperative Circumnavigation for a Mobile Target Using Adaptive Estimation" (available at: https://joanafonseca.com/publications/)
